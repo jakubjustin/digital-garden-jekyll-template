@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: Impresum
+permalink: /impresum
 ---
 
-*This is an about page.*
-
-I'm Jakub Justin.
+Hi. I'm Jakub Justin.
