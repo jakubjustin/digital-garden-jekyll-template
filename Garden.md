@@ -29,6 +29,7 @@ bundle exec jekyll serve
 
 ```tsx
 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
+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
 ```
 
 github^
